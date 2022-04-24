@@ -297,7 +297,7 @@ public class PasswordManagement {
                             }
                         }
                         case 4 -> {
-                            adminLable =0;
+                            adminLable = 0;
                             label = 0;
                             flag = 0;
                         }
